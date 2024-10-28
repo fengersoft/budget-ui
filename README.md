@@ -1,6 +1,7 @@
 # budget-ui
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个vue3的前端账单 练手项目
+This is a front-end billing practice project for Vue3
 
 ## Recommended IDE Setup
 
